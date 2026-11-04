@@ -183,3 +183,4 @@ Ce TP met en évidence que :
 -  OUTIGHLI Sanae
 
 > Étudiantes en **Intelligence Artificielle** — FSBM, Université Hassan II de Casablanca
+"# Entrainement-Distribue-PyTorch." 
